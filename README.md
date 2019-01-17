@@ -1,5 +1,5 @@
 # Data-Analytics-Case-Studies
-Ivey Case Solutions using Statistical Analysis!
+Ivey Case Solutions using Statistical Analysis! (Learning from each case are as follows:)
 
 Firestone Canada Inc.
 • Retailing, marketing
