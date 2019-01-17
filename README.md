@@ -1,5 +1,6 @@
 # Data-Analytics-Case-Studies
 Ivey Case Solutions using Statistical Analysis!
+
 Firestone Canada Inc.
 • Retailing, marketing
 • Probability estimation, probability distribution and expected value
